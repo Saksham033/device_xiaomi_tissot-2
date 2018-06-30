@@ -316,7 +316,7 @@ vendor/lib/libchromatix_s5k5e8_ofilm_snapshot.so
 vendor/lib/libchromatix_s5k5e8_ofilm_zsl_preview_3a.so
 vendor/lib/libchromatix_s5k5e8_ofilm_zsl_video_3a.so
 
-# Camera configs
+# Camera configs +
 etc/camera/camera_config.xml
 etc/camera/csidtg_camera.xml
 etc/camera/csidtg_chromatix.xml
