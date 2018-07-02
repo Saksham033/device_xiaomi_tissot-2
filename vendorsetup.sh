@@ -1,1 +1,1 @@
-add_lunch_combo potato_tissot-userdebug
+add_lunch_combo havoc_tissot-userdebug

@@ -17,9 +17,9 @@
 $(call inherit-product, device/xiaomi/tissot/full_tissot.mk)
 
 # Inherit some common POSP stuff.
-$(call inherit-product, vendor/potato/config/common_full_phone.mk)
+$(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 
-PRODUCT_NAME := potato_tissot
+PRODUCT_NAME := havoc_tissot
 BOARD_VENDOR := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
